@@ -13,7 +13,7 @@ public class ExceptionHandleDemo {
 			e.printStackTrace();
 		}
 			Thread.sleep(2000);
-			System.out.println("Exception Handled Done");
+			
 	}
 
 }
